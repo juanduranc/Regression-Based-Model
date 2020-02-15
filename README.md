@@ -1,2 +1,4 @@
-# My Websites
-This is a repository of my websites
+# Regression Based Analysis
+
+Click on the following link to view:
+https://juanduranc.github.io/Regression-Based-Model/
