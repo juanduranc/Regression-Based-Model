@@ -1,4 +1,4 @@
-# Projects availabe:
+# Projects Available:
 
 ### Python: Regression Based Analysis
 https://juanduranc.github.io/sites/Python%20RegressionAnalysis.html
